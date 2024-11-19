@@ -14,6 +14,8 @@
     - (Optional) Segmentation Task: Train a model to predict lung masks.
 4. Evaluation:
     - Measure accuracy, F1 score, or AUC. 
-    - You will not be evaluated on the accuracy of your model(s), but rather your approach to the problem.
+    - You will not be evaluated on the accuracy of your model(s).
+    - You will be evaluated on your approach to the problem, please document your work.
+    - Be mindful of overfitting and leakage.
 5. Insights:
     - Provide a brief report on findings, challenges faced, and potential next steps.
