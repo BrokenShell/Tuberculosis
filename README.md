@@ -7,7 +7,7 @@
     - Analyze the metadata for potential biases (e.g., age or gender distribution in PTB-positive vs. PTB-negative cases).
     - Visualize a few examples of chest X-rays and corresponding segmentation masks.
 2. Data Preparation:
-    - Preprocess the images and masks for model input.
+    - Preprocess the images for model input.
     - Handle any missing or incomplete metadata.
 3. Modeling:
     - Classification Task: Predict PTB-positive vs. PTB-negative labels.
